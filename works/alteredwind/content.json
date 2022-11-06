@@ -1,0 +1,123 @@
+{
+    "jp": {
+        "title": "視聴触覚間クロスモーダル効果を用いた\n\n風覚ディスプレイ",
+        "top": "top.jpg",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "風の感覚によってバーチャルリアリティ（VR）の臨場感・没入感を向上させる「風覚ディスプレイ」が提案されています．しかし，現状の風覚ディスプレイは風向を再現するために多くの風発生源（風源）を必要とします．そこで，風源の少ない風覚ディスプレイを実現するために，クロスモーダル効果によって風知覚を操作する手法を提案しました．",
+                    "本研究プロジェクトでは，まず聴触覚間のクロスモーダル効果を用いることを検討しました．立体的な風の音像（聴いて方向がわかる音）を風と同時に提示したところ，実際の風向ではなく音像で提示した方向に近づくように知覚が変化することが分かりました．"
+                ]
+            },
+            {
+                "type": "movie",
+                "content": "aTlQtGwykpQ"
+            },
+            {
+                "type": "text",
+                "content": [
+                    "続いて私たちはさらに視覚情報を加えることで，粒子が一定方向に流れるVR映像と，立体的な風の音像（聴いて方向がわかる音）を風と同時に提示し，視触覚・聴触覚間のクロスモーダル効果を引き起こすことを狙いました．実験の結果，視覚情報と音声情報の両方を提示することは，音声か視覚情報どちらか一方を提示するよりも風向知覚操作効果が高いことが分かりました．本研究で得られた知見を活用することで，風覚ディスプレイをより簡便に実装できるようになり，風を用いたVRコンテンツを広める助けになると考えています．"
+                ]
+            },
+            {
+                "type": "movie",
+                "content": "08DxoF3lSbA"
+            }
+        ],
+        "publication": [
+            {
+                "title": "視聴触覚間のクロスモーダル効果による風向知覚操作",
+                "publish": "日本バーチャルリアリティ学会論文誌",
+                "vol": "Vol.26 No.4 pp.277-287",
+                "when": 2021,
+                "where": "",
+                "doi": "https://doi.org/10.18974/tvrsj.26.4_277",
+                "award": "",
+                "authors": [
+                    "伊東健一",
+                    "伴祐樹",
+                    "割澤伸一"
+                ]
+            }
+        ],
+        "media": [
+            {
+                "content": "山下裕毅, Innovative Tech：2台の扇風機で多様な風向き知覚　東京大学「AlteredWind」発表, ITmedia, 2020年1月",
+                "link": "https://www.itmedia.co.jp/news/articles/2001/10/news030.html"
+            }
+        ],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "伊東 健一",
+                "link": "https://k-ito.dev/"
+            },
+            {
+                "name": "伴 祐樹"
+            },
+            {
+                "name": "割澤 伸一"
+            }
+        ]
+    },
+    "en": {
+        "title": "Wind Display using Cross-Modal Presentation of Visual, Audio and Wind Stimuli",
+        "top": "top.jpg",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "Wind displays have been proposed to enhance the realism and immersiveness of virtual reality (VR) through the sensation of wind. However, current wind displays require a large number of wind sources to reproduce wind direction. To realize a wind-sensory display with fewer wind sources, we proposed a method to manipulate wind perception through cross-modal effects.",
+                    "In this research project, we first investigated the use of cross-modal effects between auditory and haptic senses. When a three-dimensional sound of the wind (a sound whose direction can be recognized by listening to it) was presented simultaneously with the wind, the perception changed so that the direction of the wind was closer to the direction presented by the sound image rather than the actual direction of the wind."
+                ]
+            },
+            {
+                "type": "movie",
+                "content": "aTlQtGwykpQ"
+            },
+            {
+                "type": "text",
+                "content": [
+                    "We then presented a VR image of particles flowing in a certain direction and a three-dimensional sound of wind (a sound whose direction can be recognized by listening to it) simultaneously with wind, aiming to induce a cross-modal effect between visual and auditory haptic senses.",
+                    "Experimental results showed that presenting both visual and audio information was more effective than presenting either audio or visual information in manipulating wind direction perception.",
+                    "We believe that the findings from this research will make wind displays easier to implement and help spread wind-based VR content."
+                ]
+            },
+            {
+                "type": "movie",
+                "content": "08DxoF3lSbA"
+            }
+        ],
+        "publication": [
+            {
+                "title": "視聴触覚間のクロスモーダル効果による風向知覚操作",
+                "publish": "日本バーチャルリアリティ学会論文誌",
+                "vol": "Vol.26 No.4 pp.277-287",
+                "when": 2021,
+                "where": "",
+                "doi": "https://doi.org/10.18974/tvrsj.26.4_277",
+                "award": "",
+                "authors": [
+                    "伊東健一",
+                    "伴祐樹",
+                    "割澤伸一"
+                ]
+            }
+        ],
+        "media": [],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "Kenichi Ito",
+                "link": "https://k-ito.dev/"
+            },
+            {
+                "name": "Yuki Ban"
+            },
+            {
+                "name": "Shin'ichi Warisawa"
+            }
+        ]
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "jp": {
+        "title": "VR空間での香りの弁別感創出",
+        "top": "cover.png",
+        "posY": "50px",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "VRにおける臨場感，没入感を高めるために様々な香り提示手法が提案されています．その中で，複数の香りを同時に提示したいという要望がありますが，人間には複数の香りをまとめて認識するため弁別が難しいという課題があります．バーチャル空間中で複数の香りを提示する手法として，近いものは強く遠いものは弱いといった，ユーザとの距離に基づいた香り提示手法が提案されています．しかし，この手法ではそれぞれの（香りを出す物体）の距離が近い場合はうまく弁別することができません．",
+                    "そこで本研究では，聴覚におけるカクテルパーティ効果に着目しました．この効果は，パーティ会場のように多数の声が混在している状況であっても意識を向けた音声を聞き分けることができる現象です．犬など嗅覚の鋭い動物にはこのような嗅ぎ分け能力が備わっていると報告されていますが，人間にはこの能力はほとんどありません．私たちは嗅覚に対してこの効果をバーチャルに展開させ，着目した香り源の香りを強調するVRシステムを実装しました．これにより知覚の解像度に対する印象を向上させ，バーチャル環境の臨場感を向上させることを狙いました．"
+                ]
+            },
+            {
+                "type": "image",
+                "content": "background.jpg"
+            },
+            {
+                "type": "text",
+                "content": [
+                    "実験では，体験者から等距離に3つの香り源をバーチャル環境中に設置しました．その環境で，香り源に視線を向けた際にその香りを強調し，他の香りを弱めるStrong-weak条件，ある香り源に注目した際に他の香りを提示しないStrong-none条件，全て同じ香りを提示するAll-medium条件の3条件での実験を行い，その際の臨場感や自身の香り弁別能力に対する評価を収集しました．",
+                    "その結果，着目した香り源の香り提示強度を他の香り源より強めることでバーチャル体験の臨場感を向上させることができ，自身の香り弁別感に対する評価を向上させられることを確かめました．"
+                ]
+            },
+            {
+                "type": "image",
+                "content": "ex.jpg"
+            },
+            {
+                "type": "image",
+                "content": "result.jpg"
+            }
+        ],
+        "publication": [],
+        "media": [],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "鄒 尚茵"
+            },
+            {
+                "name": "伊藤 孝紘"
+            },
+            {
+                "name": "胡 献引",
+                "link": "https://huxianyin.github.io/blog/about"
+            },
+            {
+                "name": "伴 祐樹"
+            },
+            {
+                "name": "割澤 伸一"
+            }
+        ]
+    },
+    "en": {
+        "title": "Creating a scent discrimination sense in VR",
+        "top": "cover.png",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "Various scent presentation methods have been proposed to enhance the sense of presence and immersion in VR. One of these methods is to present multiple scents at the same time, but humans have difficulty in discriminating between scents because they perceive multiple scents at once. A scent presentation method based on distance from the user has been proposed for presenting multiple scents in a virtual space, with closer scents being stronger and more distant ones weaker. However, this method does not work well when the objects are close to each other.",
+                    "In this study, we focused on the cocktail party effect in auditory perception. This effect is a phenomenon in which a person is able to distinguish the voices to which they are focused even in a situation where many voices are mixed together, such as in a party room. It is reported that animals with a acute sense of smell, such as dogs, have this ability, but humans have almost no such ability. We have implemented a VR system that virtually produced this effect on the smell sense and emphasizes the scent of the focused scent source. Our goal was to improve the impression of perceptual resolution and increase the realism of the virtual environment."
+                ]
+            },
+            {
+                "type": "image",
+                "content": "background.jpg"
+            },
+            {
+                "type": "text",
+                "content": [
+                    "In the user study, three scent sources were placed equidistant from the participants in a virtual environment. In this environment, we conducted experiments under three conditions: the Strong-weak condition, which emphasizes the scent when the participants look at a scent source and reduces other scents; the Strong-none condition, in which no other scents are presented when the participants look at a certain scent source; and the All-medium condition, in which all scents are presented in the same way. We collected evaluations of the participants' sense of presence and their own ability to discriminate fragrances.",
+                    "As a result, we confirmed that our proposed method improves the realism of the virtual experience, and improves the evaluation of the user's own scent discrimination."
+                ]
+            },
+            {
+                "type": "image",
+                "content": "result.jpg"
+            }
+        ],
+        "publication": [],
+        "media": [],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "Shangyin Zou"
+            },
+            {
+                "name": "Takahiro Ito"
+            },
+            {
+                "name": "Xianyin Hu",
+                "link": "https://huxianyin.github.io/blog/about"
+            },
+            {
+                "name": "Yuki Ban"
+            },
+            {
+                "name": "Shin'ichi Warisawa"
+            }
+        ]
+    }
+}

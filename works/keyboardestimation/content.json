@@ -1,0 +1,84 @@
+{
+    "jp": {
+        "title": "CMC利用時のキータイピング特徴量からの情動推定",
+        "top": "top.jpg",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "インターネットの普及や働き方改革に伴い，仕事におけるコミュニケーションツールとしてEメールやビジネスチャットツール等のCMC(Computer-mediated communication)の利用が増えています．しかしCMCによる会話は，多くの非言語情報(態度，口調など)が失われるため，それらを伝達する手法の実現が求められています．",
+                    "本研究では，CMC利用時のキータイピングの仕方がその時の情動状態によって変化するという仮説をたて，タイピングの強さや速さ，間隔を計測するシステムを実装しました．タイピングの強さについては，PCのUSBポートに取り付け可能な加速度計測デバイスを実装し，タイピング時のPCの振動を計測しました．実験の結果，感情価(ポジティブ-ネガティブ)，覚醒度(興奮-鎮静)の状況をキータイピング特徴量から推定できることを確かめました．"
+                ]
+            },
+            {
+                "type": "image",
+                "content": "result.jpg"
+            }
+        ],
+        "publication": [],
+        "media": [],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "長谷川 慶"
+            },
+            {
+                "name": "宮本 光"
+            },
+            {
+                "name": "芦田 裕輝"
+            },
+            {
+                "name": "伴 祐樹"
+            },
+            {
+                "name": "福井 類",
+                "link": "http://www.ra-laboratory.com/r/index.html"
+            },
+            {
+                "name": "割澤 伸一"
+            }
+        ]
+    },
+    "en": {
+        "title": "Estimating Emotion using Keyboard Typing Features",
+        "top": "top.jpg",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "With the spread of the Internet and changes in work styles, the use of computer-mediated communication (CMC) such as e-mail and business chat tools is increasing as communication tools at work. However, many non-verbal information (attitude, tone of voice, etc.) is lost in CMC conversations, so there is a need to develop a method to convey such information.",
+                    "In this study, we hypothesized that the key typing style during CMC use changes depending on the emotional state of the user, and implemented a system to measure typing strength, speed. For typing strength, we implemented an acceleration measurement device that can be attached to the USB port of a PC, and measured the vibration of the PC while typing. Experimental results showed that the key typing features can be used to estimate emotional valence (positive/negative) and arousal (excited/sedated)."
+                ]
+            },
+            {
+                "type": "image",
+                "content": "result.jpg"
+            }
+        ],
+        "publication": [],
+        "media": [],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "Kei Hasegawa"
+            },
+            {
+                "name": "Hikari Miyamoto"
+            },
+            {
+                "name": "Yuki Ashida"
+            },
+            {
+                "name": "Yuki Ban"
+            },
+            {
+                "name": "Rui Fukui",
+                "link": "http://www.ra-laboratory.com/r/index.html"
+            },
+            {
+                "name": "Shin'ichi Warisawa"
+            }
+        ]
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "jp": {
+        "title": "生体情報計測HMD",
+        "top": "cover.jpg",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "センシング技術の発展に伴い，生体情報を計測することで心拍や呼吸数，発汗，皮膚温度等様々な生体指標を算出できるようになった．これらの指標を用いることで，ストレスや緊張のような覚醒度やポジティブ，ネガティブといった感情価を推定できるようになってきています．VRの分野においても，生体情報計測を組み入れているシステムは多数存在します．",
+                    "そのため近年では，HMD内に生体情報計測センサを内蔵する取り組みが進められています．その中で本研究では，市場に広く出回っている多様なHMDに簡単に着脱可能な呼吸・脈波計測デバイスを開発しました．"
+                ]
+            },
+            {
+                "type": "image",
+                "content": "concept.jpg"
+            },
+            {
+                "type": "text",
+                "content": [
+                    "VR体験中の生体情報を簡易に計測できるようになることで，計測した情報からストレスやリラックス，恐怖，興奮等の情動状態を推定できるようになり，それを元にダイナミックにバーチャルコンテンツを切り替えていくようなVRシステムを実現できます．例えばホラーVRコンテンツにおいて，ユーザの恐怖度合いに応じてコンテンツの恐怖レベルを切り替えることで，怖いのが不得手でもホラーを体験したいというユーザが最後までコンテンツを体験するようにしたり，怖いのが得意なユーザに対してより怖いコンテンツを提供できるようになります．"
+                ]
+            },
+            {
+                "type": "movie",
+                "content": "a-wlddD2aUY"
+            }
+        ],
+        "publication": [
+            {
+                "title": "VR体験中の人の覚醒度推定のための生体情報計測 Head Mounted Display の開発",
+                "publish": "日本バーチャルリアリティ学会論文誌",
+                "vol": "Vol.24 No.4 pp.377-388",
+                "when": 2019,
+                "where": "",
+                "doi": "https://doi.org/10.18974/tvrsj.24.4_377",
+                "award": "日本VR学会論文賞",
+                "authors": [
+                    "稲澤将太",
+                    "伴祐樹"
+                ]
+            }
+        ],
+        "media": [
+            {
+                "content": "Innovative Tech: 山下裕毅, ユーザーの覚醒度を計測するVR HMD用生体センサー 東大が発表, ITmedia News, 2020年1月",
+                "link": "https://www.itmedia.co.jp/news/articles/2001/24/news030.html"
+            }
+        ],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "稲澤 将太"
+            },
+            {
+                "name": "伴 祐樹"
+            }
+        ]
+    },
+    "en": {
+        "title": "Biological Infomation Sensing HMD",
+        "top": "cover.jpg",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "With the development of sensing technology, it has become possible to calculate various biometric indices such as heart rate, respiration rate, perspiration, and skin temperature by measuring biometric information. By using these indicators, it has become possible to estimate arousal levels such as stress and tension, as well as emotional values such as positive and negative.",
+                    "In recent years, lots of works have tried to integrate biometric measurement sensors into HMDs. In this study, we developed a respiration and pulse wave measurement device that can be easily attached to and detached from a variety of HMDs widely available in the market."
+                ]
+            },
+            {
+                "type": "image",
+                "content": "concept.jpg"
+            },
+            {
+                "type": "text",
+                "content": [
+                    "The biological information sensing during VR experience enables us to  realize a VR system that dynamically switches virtual contents based on the estimated emotion.",
+                    " For example, in the case of horror VR content, by switching the fear level of the content according to the user's fear level, users who are not good at being scared but still want to experience horror will be able to experience the content until the end, and users who are good at being scared will be able to provide more scary content."
+                ]
+            },
+            {
+                "type": "movie",
+                "content": "a-wlddD2aUY"
+            }
+        ],
+        "publication": [
+            {
+                "title": "VR体験中の人の覚醒度推定のための生体情報計測 Head Mounted Display の開発",
+                "publish": "日本バーチャルリアリティ学会論文誌",
+                "vol": "Vol.24 No.4 pp.377-388",
+                "when": 2019,
+                "where": "",
+                "doi": "https://doi.org/10.18974/tvrsj.24.4_377",
+                "award": "日本VR学会論文賞",
+                "authors": [
+                    "稲澤将太",
+                    "伴祐樹"
+                ]
+            }
+        ],
+        "media": [],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "Masahiro Inazawa"
+            },
+            {
+                "name": "Yuki Ban"
+            }
+        ]
+    }
+}

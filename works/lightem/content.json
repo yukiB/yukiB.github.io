@@ -1,0 +1,149 @@
+{
+    "jp": {
+        "title": "照明環境多重化",
+        "top": "cover.jpg",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "屋内の照明環境は集中度や生産性，疲労，感情といった様々な面で人に影響をおよぼします．特に人が無意識に処理している周辺視野の環境も人に影響することから，屋内環境を改善するために照明環境を制御しようと多くの研究がなされてきました．一方で照明環境の影響は人ごとに異なるため，一つの空間に複数の人がいる場合は人々の視環境が互いに空間的に重なってしまいます．"
+                ]
+            },
+            {
+                "type": "image",
+                "content": "background.jpg"
+            },
+            {
+                "type": "text",
+                "content": [
+                    "そこで本研究では，高速で開閉するシャッターメガネと，高速に点灯状態を変化させる光源を同期的に制御することで，時分割により1つの空間で複数の互いに異なる照明環境（多重な照明環境）を実現しました．人間の視覚は臨界融合周波数 (CFF) と呼ばれる周波数以上の速さで点滅する光を連続点灯する光として認識するため，光源を高速で点滅させ，点滅に同期する速さでシャッターを周期的に開閉させると，シャッターが開いている期間に発せられる点滅光は目に届き，一方シャッターが閉じている期間に発せられる点滅光は目に届きません．互いに独立な期間にのみ開くよう制御した複数のシャッターを用いれば，互いに独立な照明状態をシャッター越しに届けることが可能になります."
+                ]
+            },
+            {
+                "type": "image",
+                "content": "mechanism.jpg"
+            },
+            {
+                "type": "text",
+                "content": [
+                    "これにより「空間全体が白く明るい環境」と「自分の周囲のみ暖かみのあるオレンジ色で照らされた環境」のように，同じ空間で全く異なる照明環境を同時に実現できます．実験の結果，本システムを使って照明が多重化した状態で作業を行うと，空間への印象が通常よりも良くなり，他人を気にせず照明の調整ができるようになるため照明の調整回数も増加することがわかりました．",
+                    "本手法によって，将来的にはオフィスやリビングなどの共有空間で，複数の人が互いを気にせず照明状態を操作するなど，空間内の全ての人により良い照明環境を提供できるようになります．実験では同時に3人までを実証しましたが，さらに高速のシャッターを用いればより多くの人で同時に使用できるようになります．"
+                ]
+            },
+            {
+                "type": "movie",
+                "content": "r3jfWUkq11g"
+            }
+        ],
+        "publication": [
+            {
+                "title": "Multiplexed lighting system using time-division multiplexing",
+                "publish": "Journal of Ambient Intelligence and Humanized Computing",
+                "vol": "pp.1-15",
+                "when": 2022,
+                "where": "",
+                "doi": "https://doi.org/10.1007/s12652-022-03778-0",
+                "award": "",
+                "authors": [
+                    "Yuki Ban",
+                    "Koichi Ota",
+                    "Rui Fukui",
+                    "Shin'ichi Warisawa"
+                ]
+            }
+        ],
+        "media": [
+            {
+                "content": "山下裕毅, Innovative Tech：共有空間でも好みの照明環境を　東大が多重化照明「Light'em」開発, ITmedia, 2020年1月",
+                "link": "https://www.itmedia.co.jp/news/articles/2001/01/news014.html"
+            }
+        ],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "太田 光一",
+                "link": "https://k-ito.dev/"
+            },
+            {
+                "name": "伴 祐樹"
+            },
+            {
+                "name": "福井 類",
+                "link": "http://www.ra-laboratory.com/r/index.html"
+            },
+            {
+                "name": "割澤 伸一"
+            }
+        ]
+    },
+    "en": {
+        "title": "Multiplexed Lighting System",
+        "top": "cover.jpg",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "Improvements in lighting and other indoor environmental conditions have gained considerable attention in different areas, including health and economics. Controlling the lighting environment is essential because, among the indoor factors, visual stimulation affects numerous human characteristics. Further, visual stimulation, including peripheral vision, affects people differently. Therefore, to improve the indoor environment with multiple occupants, each occupant must have an independent lighting environment. However, this cannot be achieved through conventional approaches. "
+                ]
+            },
+            {
+                "type": "image",
+                "content": "background.jpg"
+            },
+            {
+                "type": "text",
+                "content": [
+                    " In this study, we propose a multiplexed lighting environment that can simultaneously realize multiple mutually independent lighting environments within a single space. We developed the proposed system using time-division multiplexing and conducted an experiment to clarify the influence of light multiplexing on human behavior and impression of the indoor environment. "
+                ]
+            },
+            {
+                "type": "image",
+                "content": "mechanism.jpg"
+            },
+            {
+                "type": "text",
+                "content": [
+                    "The experimental results showed that the proposed method changed the lighting operations of the users and improved their impression of the lighting environment. Furthermore, the proposed method provides a desirable lighting environment for all people within a single space, even when people in the same space desire different lighting environments."
+                ]
+            },
+            {
+                "type": "movie",
+                "content": "r3jfWUkq11g"
+            }
+        ],
+        "publication": [
+            {
+                "title": "Multiplexed lighting system using time-division multiplexing",
+                "publish": "Journal of Ambient Intelligence and Humanized Computing",
+                "vol": "pp.1-15",
+                "when": 2022,
+                "where": "",
+                "doi": "https://doi.org/10.1007/s12652-022-03778-0",
+                "award": "",
+                "authors": [
+                    "Yuki Ban",
+                    "Koichi Ota",
+                    "Rui Fukui",
+                    "Shin'ichi Warisawa"
+                ]
+            }
+        ],
+        "media": [],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "Koichi Ota"
+            },
+            {
+                "name": "Yuki Ban"
+            },
+            {
+                "name": "Rui Fukui",
+                "link": "http://www.ra-laboratory.com/r/index.html"
+            },
+            {
+                "name": "Shin'ichi Warisawa"
+            }
+        ]
+    }
+}

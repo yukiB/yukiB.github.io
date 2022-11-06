@@ -1,0 +1,82 @@
+{
+    "jp": {
+        "title": "Communious Mouse",
+        "top": "top.png",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "「Communious Mouse」は，Web上にある記事に含まれる他者の感情を実感することができるマウス型装置です．この装置は，Web上の他者の発言にアクセスするためのインタフェースを通じて内的感覚を変化させることで，他者の感情に接続するインタフェース(マウス)まで拡張された身体イメージを変調します．",
+                    "本システムでは，Web上の発言に感情分析を適用し，ユーザが感情を含む発言にマウスカーソルを置くとその感情に関連する身体イメージを喚起する物理刺激と視覚刺激を提示します．WEB上の他人の情報にアクセスする際，マウスデバイスはユーザーの拡張体として機能します．様々な感情に関連する身体反応として，ユーザー側の意識に浮上しやすい体温と心拍を選択し，マウスカーソルで選択した文章の持つ情動情報に合わせて提示しました．前者はペルチェ素子で，後者はカーソルの振動や視覚効果での提示を行いました．",
+                    "本システムを利用することでWEB上に展開されている様々な文章の情動情報を，自身の情動として体験することができます．"
+                ]
+            },
+            {
+                "type": "movie",
+                "content": "JIru7Eo0qRc"
+            }
+        ],
+        "publication": [],
+        "media": [],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "櫻井 翔",
+                "link": "https://sakuraisho.info"
+            },
+            {
+                "name": "伴 祐樹"
+            },
+            {
+                "name": "鳴海 拓志",
+                "link": "https://www.cyber.t.u-tokyo.ac.jp/~narumi/"
+            },
+            {
+                "name": "谷川 智洋"
+            },
+            {
+                "name": "廣瀬 通孝"
+            }
+        ]
+    },
+    "en": {
+        "title": "Communious Mouse",
+        "top": "top.png",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "**Communious Mouse** is a mouse device that gives the user an experience of others’ emotion in remarks on the web as experience of one’s own. This system modifies the body image extended to the interface that units with emotion others by altering internal sense through controlling the interface to access others’ remarks on the web.",
+                    "Operating a mouse device actively lets users feel the sense of agency toward a mouse device. When users access the information of others on the web, the mouse device performs as the augmented body for users through an associative learning between a somesthesia and the visual sense which perceive a hand’s and a cursor’s movement. The system modifies the perception of the internal senses that defines the directionality of the body image and modifies the augmented body to fit to the emotion that others intended. The bodily temperature and the heartbeat are selected as the body response which are relevant to various emotions, because they are easy to surface to the conscious mind on the users hand. The former is shown by Peltier elements and the latter is shown by vibrations and visual effects for a cursor.",
+                    "To display this pseudo body response, the system applies the sentiment analysis to the remarks on the web. Happiness, sadness, surprise and anger are selected as the analysis objects. When a user put a mouse cursor on a remark which contains a certain emotion, physical and visual stimuli which evoke the body image related to this emotion are presented. This system can also be applied to the blog page and other social networking service."
+                ]
+            },
+            {
+                "type": "movie",
+                "content": "JIru7Eo0qRc"
+            }
+        ],
+        "publication": [],
+        "media": [],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "Sho Sakurai",
+                "link": "https://sakuraisho.info"
+            },
+            {
+                "name": "Yuki Ban"
+            },
+            {
+                "name": "Takuji Narumi",
+                "link": "https://www.cyber.t.u-tokyo.ac.jp/~narumi/"
+            },
+            {
+                "name": "Tomohiro Tanikawa"
+            },
+            {
+                "name": "Michitaka Hirose"
+            }
+        ]
+    }
+}

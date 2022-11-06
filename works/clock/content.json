@@ -1,0 +1,136 @@
+{
+    "jp": {
+        "title": "視聴触覚間クロスモーダル効果を用いた\n\n風覚ディスプレイ",
+        "top": "top.jpg",
+        "posY": "80px",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "本研究では，作業効率を向上させる手法として時計の運針速度に着目しました．時間感覚は相対的なものであり，環境的要因に左右されることが知られています．時計は行動ペースや時間を把握するための共通基準であるため，その運針速度を操作することで時間感覚に影響が生じ，単位時間あたりの作業量が向上するのではないかと考えました．"
+                ]
+            },
+            {
+                "type": "image",
+                "content": "concept_jp.jpg"
+            },
+            {
+                "type": "text",
+                "content": [
+                    "実験では，デスクトップモニタ上に運針速度が1.5倍，1倍，0.67倍のバーチャルな時計を表示し，それを視界に入れながら画面上部に提示される文章を画面下部に入力するタスクを課しました．その結果，実時間30分におけるタイピング量が運針速度によって有意に変化することが明らかになりました．タイピングのエラー数や主観的な疲労については運針速度の影響は受けないという結果もえられ，提示する時計の運針速度が速いほど作業の質的量的効率が向上することが示唆されました．",
+                    "時計は日常生活に溶け込んでいるデバイスのため，本手法は様々な場面で活用できることが期待されます．私たちの研究ではその応用先の一つとして，早食い防止のために運針速度の操作により食事スピードをコントロールする研究を進めています．"
+                ]
+            },
+            {
+                "type": "image",
+                "content": "ex_jp.png"
+            }
+        ],
+        "publication": [
+            {
+                "title": "時計の表示時間速度制御による単純作業の処理速度向上手法",
+                "publish": "日本バーチャルリアリティ学会論文誌",
+                "vol": "Vol.21 No.1 pp.109-120",
+                "when": 2016,
+                "where": "",
+                "doi": "https://doi.org/10.18974/tvrsj.21.1_109",
+                "award": "",
+                "authors": [
+                    "伴祐樹",
+                    "櫻井翔",
+                    "鳴海拓志",
+                    "谷川智洋",
+                    "廣瀬通孝"
+                ]
+            }
+        ],
+        "media": [],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "伴 祐樹"
+            },
+            {
+                "name": "櫻井 翔",
+                "link": "https://sakuraisho.info"
+            },
+            {
+                "name": "鳴海 拓志",
+                "link": "https://www.cyber.t.u-tokyo.ac.jp/~narumi/"
+            },
+            {
+                "name": "谷川 智洋"
+            },
+            {
+                "name": "廣瀬 通孝"
+            }
+        ]
+    },
+    "en": {
+        "title": "Wind Display using Cross-Modal Presentation of Visual, Audio and Wind Stimuli",
+        "top": "top.jpg",
+        "posY": "80px",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "In this study, we focused on the speed of clock hands as a method to improve work efficiency. It is known that the sense of time is relative and is influenced by environmental factors. Since clocks are a common standard for understanding the pace of time, we hypothesized that manipulating the speed of a clock's hands would affect the sense of time and improve work speed."
+                ]
+            },
+            {
+                "type": "image",
+                "content": "concept_en.jpg"
+            },
+            {
+                "type": "text",
+                "content": [
+                    "In the user study, a virtual clock with 1.5x, 1x, and 0.67x hands was displayed on a desktop monitor, and participants were asked to type a sentence presented at the monitor while looking at the virtual clock. The results revealed that the amount of typing during 30 minutes of real time significantly changed depending on the speed of the clock’s hand. The number of typing errors and subjective fatigue were unaffected by the speed of the virtual clock’s hand, suggesting that the higher the speed of the watch hand, the greater the qualitative and quantitative efficiency of the task.",
+                    "Since clocks are common devices of our daily lives, this method is expected to be used in a variety of situations. As one of the applications of this method, we are studying the control of eating speed by manipulating the speed of the watch hand in order to prevent premature eating."
+                ]
+            },
+            {
+                "type": "image",
+                "content": "ex_en.png"
+            }
+        ],
+        "publication": [
+            {
+                "title": "時計の表示時間速度制御による単純作業の処理速度向上手法",
+                "publish": "日本バーチャルリアリティ学会論文誌",
+                "vol": "Vol.21 No.1 pp.109-120",
+                "when": 2016,
+                "where": "",
+                "doi": "https://doi.org/10.18974/tvrsj.21.1_109",
+                "award": "",
+                "authors": [
+                    "伴祐樹",
+                    "櫻井翔",
+                    "鳴海拓志",
+                    "谷川智洋",
+                    "廣瀬通孝"
+                ]
+            }
+        ],
+        "media": [],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "Yuki Ban"
+            },
+            {
+                "name": "Sho Sakurai",
+                "link": "https://sakuraisho.info"
+            },
+            {
+                "name": "Takuji Narumi",
+                "link": "https://www.cyber.t.u-tokyo.ac.jp/~narumi/"
+            },
+            {
+                "name": "Tomohiro Tanikawa"
+            },
+            {
+                "name": "Michitaka Hirose"
+            }
+        ]
+    }
+}

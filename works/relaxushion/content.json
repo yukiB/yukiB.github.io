@@ -1,0 +1,123 @@
+{
+    "jp": {
+        "title": "呼吸運動提示による呼吸ペース・深さ誘導",
+        "top": "top.jpg",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "職場のストレスは現代社会における重要な問題であり，さまざまな健康問題や仕事のパフォーマンスの低下につながるため，その予防と克服は健康的なライフスタイルにとって非常に重要です．",
+                    "呼吸をコントロールすることはリラックスを促す最も効果的な方法の一つです．しかし、呼吸を整えるにはある程度の訓練が必要で誰でも簡単にできるものではありません．そこで本研究では呼吸リズムをコントロールすることでリラックス感を誘発させる拡縮可能なクッション型装置を提案しました．生物の持つ「呼吸の引き込み現象」に注目し，クッションの拡縮によりユーザの呼吸リズムと深さを制御し，休憩時のリラックス感増強させる手法を提案しました．"
+                ]
+            },
+            {
+                "type": "movie",
+                "content": "WSeUd4rUuN4"
+            },
+            {
+                "type": "text",
+                "content": [
+                    "実験では，このデバイスを認知テストの合間に実験参加者に抱えてもらい，その際の呼吸ペースと深さ，心電，認知テストのパフォーマンスを測定した．その結果，本デバイスによって呼吸ペースと深さをコントロールでき，交感神経の働きを落ち着かせ，休憩後のタスクのパフォーマンスを向上させることがわかりました．"
+                ]
+            }
+        ],
+        "publication": [
+            {
+                "title": "Development of a Cushion-shaped Device to Induce Respiratory Rhythm and Depth for Enhanced Relaxation and Improved Cognition",
+                "publish": "Frontiers in Computer Science",
+                "vol": "p.33",
+                "when": 2022,
+                "where": "",
+                "doi": "https://doi.org/10.3389/fcomp.2022.770701",
+                "award": "",
+                "authors": [
+                    "Yuki Ban",
+                    "HIroyuki Karasawa",
+                    "Rui Fukui",
+                    "Shin'ichi Warisawa"
+                ]
+            }
+        ],
+        "media": [
+            {
+                "content": "山下裕毅, 東京大学、クッション型装置で呼吸の体感を上書きし呼吸リズムを制御することでリラックス感を誘発させるシステム「Relaxushion」を発表, Seamless, 2018年11月",
+                "link": "https://www.itmedia.co.jp/news/articles/2001/01/news014.html"
+            }
+        ],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "伴 祐樹"
+            },
+            {
+                "name": "唐澤 宏之",
+                "link": "http://hksn-lab.com/"
+            },
+            {
+                "name": "福井 類",
+                "link": "http://www.ra-laboratory.com/r/index.html"
+            },
+            {
+                "name": "割澤 伸一"
+            }
+        ]
+    },
+    "en": {
+        "title": "Breathing pace and depth induction by respiratory motion presentation",
+        "top": "top.jpg",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "Workplace stress is a pertinent problem in today's world. Preventing and overcoming stress is critical for a healthy lifestyle because it is linked to various health problems and can lead to poor work performance. Controlling your breathing is one of the most effective ways to promote relaxation. However, regulating one's breathing necessitates some training and is not something that everyone can do easily.",
+                    "Thus, we concentrated on the relaxing effect of breathing and developed a cushion-shaped device that displays the desired respiratory motion. We used the effect of inducing one's respiratory movements by watching others' respiratory movements."
+                ]
+            },
+            {
+                "type": "movie",
+                "content": "B-q3LcY2xw8"
+            },
+            {
+                "type": "text",
+                "content": [
+                    "In the experiment, the device was held by the experimental participants between cognitive tests, during which the pace and depth of breathing, electrocardiograms, and cognitive test performance were measured. The results showed that the device enabled control of breathing pace and depth, calmed the sympathetic nervous system, and improved performance on the task after the break."
+                ]
+            }
+        ],
+        "publication": [
+            {
+                "title": "Development of a Cushion-shaped Device to Induce Respiratory Rhythm and Depth for Enhanced Relaxation and Improved Cognition",
+                "publish": "Frontiers in Computer Science",
+                "vol": "p.33",
+                "when": 2022,
+                "where": "",
+                "doi": "https://doi.org/10.3389/fcomp.2022.770701",
+                "award": "",
+                "authors": [
+                    "Yuki Ban",
+                    "HIroyuki Karasawa",
+                    "Rui Fukui",
+                    "Shin'ichi Warisawa"
+                ]
+            }
+        ],
+        "media": [],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "Yuki Ban"
+            },
+            {
+                "name": "Hiroyuki Karasawa",
+                "link": "http://hksn-lab.com/"
+            },
+            {
+                "name": "Rui Fukui",
+                "link": "http://www.ra-laboratory.com/r/index.html"
+            },
+            {
+                "name": "Shin'ichi Warisawa"
+            }
+        ]
+    }
+}

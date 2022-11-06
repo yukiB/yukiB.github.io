@@ -1,0 +1,70 @@
+{
+    "jp": {
+        "title": "VRにおけるヒットストップエフェクトによる衝撃感提示",
+        "top": "cover.jpg",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "スポーツゲームなどのVR（バーチャルリアリティ）アプリケーションにおいて、高い没入感と楽しさを得るためには、衝撃を感じることが不可欠です．現在市販されているVRコントローラは振動触覚アクチュエータを搭載しており，振動のみで衝撃感を表現しています。衝撃フィードバック用のソレノイド等の専用デバイスを使用すれば，より強固な衝撃感を表現することができますが，現在市販されているコントローラにはそのようなデバイスは搭載していません．本研究では，そのような一般的なVRコントローラを用いて衝撃感を表現するために，衝撃の瞬間に動きを一時停止したり，スローモーションアニメーションを表示するヒットストップ効果をVRに組み込むことを提案しました．その際，振動触覚フィードバックとヒットストップエフェクトを統合することでバーチャルな衝撃感を向上させることを狙いました．",
+                    "実験の結果，ヒットストップの時間が長くなると実際の身体の動きと仮想の身体の動きのミスマッチが大きくなるため，ユーザの身体所有感が失われて臨場感が低下することが明らかになりました．その際，ヒットストップのタイミングに合わせて振動刺激を提示することで身体所有感を維持することができ，衝撃感を向上させられることが明らかになりました．本研究の成果は[こちらのサイト](https://visuohapticteam.github.io/hitstop_in_vr_webdemo/)で体験することができます．"
+                ]
+            },
+            {
+                "type": "movie",
+                "content": "E9wWc5XBBxY"
+            }
+        ],
+        "publication": [],
+        "media": [],
+        "exhibition": [
+            {
+                "content": "Hit-stop in VR デモストレーションサイト",
+                "link": "https://visuohapticteam.github.io/hitstop_in_vr_webdemo/"
+            }
+        ],
+        "contributor": [
+            {
+                "name": "伴 祐樹"
+            },
+            {
+                "name": "宇治土公 雄介",
+                "link": "https://ujitoko.github.io/"
+            }
+        ]
+    },
+    "en": {
+        "title": "Hit-stop in VR",
+        "top": "top.png",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "Impact sensation is essential for high immersion and enjoyment in virtual-reality (VR) applications (e.g., sports games). Current off-the-shelf VR controllers have vibrotactile actuators that present impact sensations using only vibrations. If dedicated devices for impact feedback (e.g., solenoids) can be also used, a more robust impact sensation can be presented. However, current off-the-shelf controllers generally do not have such impact feedback devices. To present impact sensations using these controllers, this paper proposes the incorporation of a hit-stop effect into VR, which pauses movement or displays a slow-motion animation at the moment of impact. This effect enhances the sense of impact alongside vibrotactile feedback.",
+                    "A user study showed that the impact force sense can be presented with a hit-stop visualization effect even without vibration. In contrast, because a long hit-stop duration increases the mismatch between actual and virtual body motions, it sometimes causes users to feel a reduced sense of agency. Ultimately, we found that the combination of vibrations and hit-stops can maintain this sense while enhancing the impact sensation."
+                ]
+            },
+            {
+                "type": "movie",
+                "content": "E9wWc5XBBxY"
+            }
+        ],
+        "publication": [],
+        "media": [],
+        "exhibition": [
+            {
+                "content": "Online demo of Hitstop in VR ",
+                "link": "https://visuohapticteam.github.io/hitstop_in_vr_webdemo/"
+            }
+        ],
+        "contributor": [
+            {
+                "name": "Yuki Ban"
+            },
+            {
+                "name": "Yusuke Ujitoko",
+                "link": "https://ujitoko.github.io/"
+            }
+        ]
+    }
+}
