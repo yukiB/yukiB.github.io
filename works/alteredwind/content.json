@@ -39,6 +39,48 @@
                     "伴祐樹",
                     "割澤伸一"
                 ]
+            },
+            {
+                "title": "AlteredWind: Manipulating Perceived Direction of the Wind by Cross-Modal presentation of Visual, Audio and Wind Stimuli",
+                "publish": "ACM SIGGRAPH Asia 2019 Emerging Technologies",
+                "vol": "pp. 3-4",
+                "when": 2019,
+                "where": "Brisbane QLD Australia",
+                "doi": "https://doi.org/10.1145/3355049.3360525",
+                "award": "",
+                "authors": [
+                    "Kenichi Ito",
+                    "Yuki Ban",
+                    "Shin'ichi Warisawa"
+                ]
+            },
+            {
+                "title": "Manipulating the Perceived Directions of Wind by Visuo-Audio-Haptic Cross-Modal Effects",
+                "publish": "EuroHaptics",
+                "vol": "pp. 235-243",
+                "when": 2020,
+                "where": "Virtual Conference",
+                "doi": "https://doi.org/10.1007/978-3-030-58147-3_26",
+                "award": "",
+                "authors": [
+                    "Kenichi Ito",
+                    "Yuki Ban",
+                    "Shin'ichi Warisawa"
+                ]
+            },
+            {
+                "title": "Manipulation of the Perceived Direction of Wind by Cross-modal Effects of Wind and Three-dimensional Sound",
+                "publish": "IEEE World Haptics Conference (WHC)",
+                "vol": "pp. 622-627",
+                "when": 2019,
+                "where": "Tokyo, Japan",
+                "doi": "https://doi.org/10.1109/WHC.2019.8816111",
+                "award": "",
+                "authors": [
+                    "Kenichi Ito",
+                    "Yuki Ban",
+                    "Shin'ichi Warisawa"
+                ]
             }
         ],
         "media": [
@@ -102,6 +144,48 @@
                     "伊東健一",
                     "伴祐樹",
                     "割澤伸一"
+                ]
+            },
+            {
+                "title": "AlteredWind: Manipulating Perceived Direction of the Wind by Cross-Modal presentation of Visual, Audio and Wind Stimuli",
+                "publish": "ACM SIGGRAPH Asia 2019 Emerging Technologies",
+                "vol": "pp. 3-4",
+                "when": 2019,
+                "where": "Brisbane QLD Australia",
+                "doi": "https://doi.org/10.1145/3355049.3360525",
+                "award": "",
+                "authors": [
+                    "Kenichi Ito",
+                    "Yuki Ban",
+                    "Shin'ichi Warisawa"
+                ]
+            },
+            {
+                "title": "Manipulating the Perceived Directions of Wind by Visuo-Audio-Haptic Cross-Modal Effects",
+                "publish": "EuroHaptics",
+                "vol": "pp. 235-243",
+                "when": 2020,
+                "where": "Virtual Conference",
+                "doi": "https://doi.org/10.1007/978-3-030-58147-3_26",
+                "award": "",
+                "authors": [
+                    "Kenichi Ito",
+                    "Yuki Ban",
+                    "Shin'ichi Warisawa"
+                ]
+            },
+            {
+                "title": "Manipulation of the Perceived Direction of Wind by Cross-modal Effects of Wind and Three-dimensional Sound",
+                "publish": "IEEE World Haptics Conference (WHC)",
+                "vol": "pp. 622-627",
+                "when": 2019,
+                "where": "Tokyo, Japan",
+                "doi": "https://doi.org/10.1109/WHC.2019.8816111",
+                "award": "",
+                "authors": [
+                    "Kenichi Ito",
+                    "Yuki Ban",
+                    "Shin'ichi Warisawa"
                 ]
             }
         ],

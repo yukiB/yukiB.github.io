@@ -50,6 +50,36 @@
                     "Rui Fukui",
                     "Shin'ichi Warisawa"
                 ]
+            },
+            {
+                "title": "Light’em: a multiplexed lighting system",
+                "publish": "ACM SIGGRAPH Asia 2019 Emerging Technologies",
+                "vol": "pp. 29-31",
+                "when": 2019,
+                "where": "Brisbane QLD Australia",
+                "doi": "https://doi.org/10.1145/3355049.3360537",
+                "award": "",
+                "authors": [
+                    "Koichi Ota",
+                    "Yuki Ban",
+                    "Rui Fukui",
+                    "Shin'ichi Warisawa"
+                ]
+            },
+            {
+                "title": "同一空間における多重な光環境を実現する照明システムの研究",
+                "publish": "インタラクション2018インタラクティブ発表（プレミアム発表）",
+                "vol": "pp. 384-386",
+                "when": 2019,
+                "where": "",
+                "doi": "",
+                "award": "インタラクティブ発表賞",
+                "authors": [
+                    "太田幸一",
+                    "伴祐樹",
+                    "福井類",
+                    "割澤伸一"
+                ]
             }
         ],
         "media": [
@@ -123,6 +153,21 @@
                 "authors": [
                     "Yuki Ban",
                     "Koichi Ota",
+                    "Rui Fukui",
+                    "Shin'ichi Warisawa"
+                ]
+            },
+            {
+                "title": "Light’em: a multiplexed lighting system",
+                "publish": "ACM SIGGRAPH Asia 2019 Emerging Technologies",
+                "vol": "pp. 29-31",
+                "when": 2019,
+                "where": "Brisbane QLD Australia",
+                "doi": "https://doi.org/10.1145/3355049.3360537",
+                "award": "",
+                "authors": [
+                    "Koichi Ota",
+                    "Yuki Ban",
                     "Rui Fukui",
                     "Shin'ichi Warisawa"
                 ]

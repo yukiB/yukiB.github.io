@@ -15,7 +15,26 @@
                 "content": "result.jpg"
             }
         ],
-        "publication": [],
+        "publication": [
+            {
+                "title": "Estimation of Affective State Based on Keystroke and Typing Vibration during Computer-Mediated Communication",
+                "publish": "Proceedings of the 14th International Joint Conference on Biomedical Engineering Systems and Technologies",
+                "vol": "pp. 235-243",
+                "when": 2021,
+                "where": "Virtual Conference",
+                "doi": "http://dx.doi.org/10.5220/0010267502350242",
+                "award": "",
+                "authors": [
+                    "Kei Hasegawa",
+                    "Hikaru Miyamoto",
+                    "Yuki Ashida",
+                    "Yuki Ban",
+                    "Rui Fukui",
+                    "Masahiro Inazawa",
+                    "Shin’ichi Warisawa"
+                ]
+            }
+        ],
         "media": [],
         "exhibition": [],
         "contributor": [
@@ -34,6 +53,9 @@
             {
                 "name": "福井 類",
                 "link": "http://www.ra-laboratory.com/r/index.html"
+            },
+            {
+                "name": "稲澤 将太"
             },
             {
                 "name": "割澤 伸一"
@@ -56,7 +78,26 @@
                 "content": "result.jpg"
             }
         ],
-        "publication": [],
+        "publication": [
+            {
+                "title": "Estimation of Affective State Based on Keystroke and Typing Vibration during Computer-Mediated Communication",
+                "publish": "Proceedings of the 14th International Joint Conference on Biomedical Engineering Systems and Technologies",
+                "vol": "pp. 235-243",
+                "when": 2021,
+                "where": "Virtual Conference",
+                "doi": "http://dx.doi.org/10.5220/0010267502350242",
+                "award": "",
+                "authors": [
+                    "Kei Hasegawa",
+                    "Hikaru Miyamoto",
+                    "Yuki Ashida",
+                    "Yuki Ban",
+                    "Rui Fukui",
+                    "Masahiro Inazawa",
+                    "Shin’ichi Warisawa"
+                ]
+            }
+        ],
         "media": [],
         "exhibition": [],
         "contributor": [
@@ -75,6 +116,9 @@
             {
                 "name": "Rui Fukui",
                 "link": "http://www.ra-laboratory.com/r/index.html"
+            },
+            {
+                "name": "Masahiro Inazawa"
             },
             {
                 "name": "Shin'ichi Warisawa"

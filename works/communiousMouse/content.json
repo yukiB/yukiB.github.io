@@ -16,7 +16,42 @@
                 "content": "JIru7Eo0qRc"
             }
         ],
-        "publication": [],
+        "publication": [
+            {
+                "title": "Sharing Emotion Described as Text on the Internet by Changing Self-physiological Perception",
+                "publish": "Proceedings of the Fourth International Conference on Human Agent Interaction",
+                "vol": "pp. 145-153",
+                "when": 2016,
+                "where": "Biopolis Singapore",
+                "doi": "https://doi.org/10.1145/2974804.2974825",
+                "award": "",
+                "authors": [
+                    "Sho Sakurai",
+                    "Yuki Ban",
+                    "Toki Katumura",
+                    "Takuji Narumi",
+                    "Tomohiro Tanikawa",
+                    "Michitaka Hirose"
+                ]
+            },
+            {
+                "title": "Communious mouse: a mouse interface to experience emotions in remarks on the web by extending and modulating one's body image",
+                "publish": "ACM SIGGRAPH Asia 2014 Emerging Technologies",
+                "vol": "pp. 4:1-4:3",
+                "when": 2014,
+                "where": "Hongkong",
+                "doi": "https://doi.org/10.1145/2669047.2669057",
+                "award": "",
+                "authors": [
+                    "Sho Sakurai",
+                    "Yuki Ban",
+                    "Toki Katsumura",
+                    "Takuji Narumi",
+                    "Tomohiro Tanikawa",
+                    "Michitaka Hirose"
+                ]
+            }
+        ],
         "media": [],
         "exhibition": [],
         "contributor": [
@@ -56,7 +91,42 @@
                 "content": "JIru7Eo0qRc"
             }
         ],
-        "publication": [],
+        "publication": [
+            {
+                "title": "Sharing Emotion Described as Text on the Internet by Changing Self-physiological Perception",
+                "publish": "Proceedings of the Fourth International Conference on Human Agent Interaction",
+                "vol": "pp. 145-153",
+                "when": 2016,
+                "where": "Biopolis Singapore",
+                "doi": "https://doi.org/10.1145/2974804.2974825",
+                "award": "",
+                "authors": [
+                    "Sho Sakurai",
+                    "Yuki Ban",
+                    "Toki Katumura",
+                    "Takuji Narumi",
+                    "Tomohiro Tanikawa",
+                    "Michitaka Hirose"
+                ]
+            },
+            {
+                "title": "Communious mouse: a mouse interface to experience emotions in remarks on the web by extending and modulating one's body image",
+                "publish": "ACM SIGGRAPH Asia 2014 Emerging Technologies",
+                "vol": "pp. 4:1-4:3",
+                "when": 2014,
+                "where": "Hongkong",
+                "doi": "https://doi.org/10.1145/2669047.2669057",
+                "award": "",
+                "authors": [
+                    "Sho Sakurai",
+                    "Yuki Ban",
+                    "Toki Katsumura",
+                    "Takuji Narumi",
+                    "Tomohiro Tanikawa",
+                    "Michitaka Hirose"
+                ]
+            }
+        ],
         "media": [],
         "exhibition": [],
         "contributor": [

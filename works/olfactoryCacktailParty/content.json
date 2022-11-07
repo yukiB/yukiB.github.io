@@ -31,7 +31,23 @@
                 "content": "result.jpg"
             }
         ],
-        "publication": [],
+        "publication": [
+            {
+                "title": "Simulating Olfactory Cocktail Party Effect in VR: A Multi-odor Display Approach Based on Attention",
+                "publish": "IEEE Virtual Reality (VR)",
+                "vol": "pp. 474-482",
+                "when": 2022,
+                "where": "Virtual Conference",
+                "doi": "https://doi.org/10.1109/VR51125.2022.00067",
+                "award": "",
+                "authors": [
+                    "Zou Shangyin",
+                    "Xianyin Hu",
+                    "Yuki Ban",
+                    "Shin'ichi Warisawa"
+                ]
+            }
+        ],
         "media": [],
         "exhibition": [],
         "contributor": [
@@ -80,7 +96,23 @@
                 "content": "result.jpg"
             }
         ],
-        "publication": [],
+        "publication": [
+            {
+                "title": "Simulating Olfactory Cocktail Party Effect in VR: A Multi-odor Display Approach Based on Attention",
+                "publish": "IEEE Virtual Reality (VR)",
+                "vol": "pp. 474-482",
+                "when": 2022,
+                "where": "Virtual Conference",
+                "doi": "https://doi.org/10.1109/VR51125.2022.00067",
+                "award": "",
+                "authors": [
+                    "Zou Shangyin",
+                    "Xianyin Hu",
+                    "Yuki Ban",
+                    "Shin'ichi Warisawa"
+                ]
+            }
+        ],
         "media": [],
         "exhibition": [],
         "contributor": [
