@@ -1,7 +1,7 @@
 {
     "jp": {
         "title": "VR空間での香りの弁別感創出",
-        "top": "cover.png",
+        "top": "cover.jpg",
         "posY": "50px",
         "about": [
             {
@@ -71,7 +71,7 @@
     },
     "en": {
         "title": "Creating a scent discrimination sense in VR",
-        "top": "cover.png",
+        "top": "cover.jpg",
         "about": [
             {
                 "type": "text",
