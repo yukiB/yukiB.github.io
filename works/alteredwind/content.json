@@ -2,6 +2,7 @@
     "jp": {
         "title": "視聴触覚間クロスモーダル効果を用いた\n\n風覚ディスプレイ",
         "top": "top.jpg",
+        "posYsp": "120px",
         "about": [
             {
                 "type": "text",

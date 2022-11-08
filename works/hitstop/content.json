@@ -1,7 +1,8 @@
 {
     "jp": {
-        "title": "VRにおけるヒットストップエフェクトによる衝撃感提示",
-        "top": "cover.jpg",
+        "title": "VRにおけるヒットストップ効果による衝撃感提示",
+        "top": "top.jpg",
+        "posYsp": 100,
         "about": [
             {
                 "type": "text",
@@ -49,7 +50,7 @@
     },
     "en": {
         "title": "Hit-stop in VR",
-        "top": "top.png",
+        "top": "top.jpg",
         "about": [
             {
                 "type": "text",
