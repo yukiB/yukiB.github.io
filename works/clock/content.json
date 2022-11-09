@@ -1,6 +1,6 @@
 {
     "jp": {
-        "title": "視聴触覚間クロスモーダル効果を用いた\n\n風覚ディスプレイ",
+        "title": "時計の運針速度操作による作業効率向上",
         "top": "top.jpg",
         "posY": "80px",
         "about": [
@@ -83,7 +83,7 @@
         ]
     },
     "en": {
-        "title": "Wind Display using Cross-Modal Presentation of Visual, Audio and Wind Stimuli",
+        "title": "Improvement of work efficiency by manipulation of clock hand speed",
         "top": "top.jpg",
         "posY": "80px",
         "about": [
