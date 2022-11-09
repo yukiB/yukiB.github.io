@@ -12,6 +12,10 @@
                 ]
             },
             {
+                "type": "image",
+                "content": "cover.jpg"
+            },
+            {
                 "type": "movie",
                 "content": "E9wWc5XBBxY"
             }
@@ -58,6 +62,10 @@
                     "Impact sensation is essential for high immersion and enjoyment in virtual-reality (VR) applications (e.g., sports games). Current off-the-shelf VR controllers have vibrotactile actuators that present impact sensations using only vibrations. If dedicated devices for impact feedback (e.g., solenoids) can be also used, a more robust impact sensation can be presented. However, current off-the-shelf controllers generally do not have such impact feedback devices. To present impact sensations using these controllers, this paper proposes the incorporation of a hit-stop effect into VR, which pauses movement or displays a slow-motion animation at the moment of impact. This effect enhances the sense of impact alongside vibrotactile feedback.",
                     "A user study showed that the impact force sense can be presented with a hit-stop visualization effect even without vibration. In contrast, because a long hit-stop duration increases the mismatch between actual and virtual body motions, it sometimes causes users to feel a reduced sense of agency. Ultimately, we found that the combination of vibrations and hit-stops can maintain this sense while enhancing the impact sensation."
                 ]
+            },
+            {
+                "type": "image",
+                "content": "cover.jpg"
             },
             {
                 "type": "movie",
