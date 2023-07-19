@@ -1,0 +1,162 @@
+{
+    "jp": {
+        "title": "視聴触覚間相互作用を活用した\n\n風を用いない風覚ディスプレイ",
+        "top": "top.jpg",
+        "posYsp": "120px",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "風の感覚によってバーチャルリアリティ（VR）の臨場感・没入感を向上させる「風覚ディスプレイ」が提案されています．しかし，風の感覚を表現するためにはファンなどの物理的な風源が，温冷を表現するためには熱源が必要となり，これらを準備すると大掛かりな装置になります．",
+                    "そこで本研究では，視聴触覚間相互作用を用いて，熱と振動，そして視覚，聴覚刺激によって風を用いずに温風や冷風を知覚させる手法を構築しました．"
+                ]
+            },
+            {
+                "type": "movie",
+                "content": "gp6NBTnFjJo"
+            },
+            {
+                "type": "text",
+                "content": [
+                    "耳や腕に対して振動と熱を同時に提示できるデバイスを作成し，風が吹き荒ぶ雪山等のVR空間映像と風の音，そして風が吹いた時生じる刺激を模した熱・振動を同期的に提示することでクロスモーダル効果を生起させ，実際に風を当ていないにもかかわらず，温かい/冷たい風が耳や腕に当たる感覚を生起させられることを確かめました．"
+                ]
+            },
+            {
+                "type": "image",
+                "content": "devices.png"
+            }
+        ],
+        "publication": [
+            {
+                "title": "Pseudo-Wind Perception Induced by Cross-Modal Reproduction of Thermal, Vibrotactile, Visual, and Auditory Stimuli",
+                        "publish": "IEEE Access",
+                        "vol": "vol. 11, pp. 4781-4793",
+                        "when": 2023,
+                        "where": "",
+                        "doi": "https://doi.org/10.1109/ACCESS.2023.3236310",
+                        "award": "",
+                        "authors": [
+                                "Juro Hosoi",
+                                "Yuki Ban",
+                                "Kenichi Ito",
+                                "Shin'ichi Warisawa"
+                        ]
+            },
+            {
+                "title": "VWind: Virtual Wind Sensation to the Ear by Cross-Modal Effects of Audio-Visual, Thermal, and Vibrotactile Stimuli",
+                "publish": "ACM SIGGRAPH Asia 2021 Emerging Technologies",
+                "vol": "pp. 18:1-18:2",
+                "when": 2021,
+                "where": "Tokyo, Japan",
+                "doi": "https://doi.org/10.1145/3476122.3484848",
+                "award": "",
+                "authors": [
+                    "Juro Hosoi",
+                    "Yuki Ban",
+                    "Kenichi Ito",
+                    "Shin'ichi Warisawa"
+                ]
+            }
+        ],
+        "media": [
+            {
+                "content": "山下裕毅, Innovative Tech：VRキャラクターに耳を「フー」してもらえるヘッドフォン、東大が開発　風源なしで温冷風を再現, ITmedia, 2022年1月",
+                "link": "https://www.itmedia.co.jp/news/articles/2201/05/news028.html"
+            }
+        ],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "細井 十楽",
+                "link": "https://www.jhosoi.info/"
+            },
+            {
+                "name": "伴 祐樹"
+            },
+            {
+                "name": "伊東 健一",
+                "link": "https://k-ito.dev/"
+            },
+            {
+                "name": "割澤 伸一"
+            }
+        ]
+    },
+    "en": {
+        "title": "Pseudo-wind display using cross-modal effect",
+        "top": "top.jpg",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "Wind display that enhances the sense of presence and immersion in virtual reality (VR) by simulating the sensation of wind has been proposed. However, to express the sensation of wind, a physical wind source such as a fan is necessary, and to express heat or cold, a heat source is required. Preparing these makes the device quite elaborate.",
+                    "Therefore, in this study, we have constructed a method that allows the perception of warm and cold air without using actual wind, by utilizing the cross-modal interaction between visual, audio, and tactile senses."
+                ]
+            },
+            {
+                "type": "movie",
+                "content": "gp6NBTnFjJo"
+            },
+            {
+                "type": "text",
+                "content": [
+                    "We created a device that can present both vibration and heat simultaneously to the ears and arms. By synchronously presenting VR space images like wind-swept snowy mountains, the sound of wind, and heat/vibration stimuli that mimic the sensations produced when wind blows, we induce a cross-modal effect. With this system, we confirmed that despite not actually applying wind, it is possible to generate the sensation of warm/cold wind hitting the ears and arms."
+                ]
+            },
+            {
+                "type": "image",
+                "content": "devices.png"
+            }
+        ],
+        "publication": [
+            {
+                "title": "Pseudo-Wind Perception Induced by Cross-Modal Reproduction of Thermal, Vibrotactile, Visual, and Auditory Stimuli",
+                        "publish": "IEEE Access",
+                        "vol": "vol. 11, pp. 4781-4793",
+                        "when": 2023,
+                        "where": "",
+                        "doi": "https://doi.org/10.1109/ACCESS.2023.3236310",
+                        "award": "",
+                        "authors": [
+                                "Juro Hosoi",
+                                "Yuki Ban",
+                                "Kenichi Ito",
+                                "Shin'ichi Warisawa"
+                        ]
+            },
+            {
+                "title": "VWind: Virtual Wind Sensation to the Ear by Cross-Modal Effects of Audio-Visual, Thermal, and Vibrotactile Stimuli",
+                "publish": "ACM SIGGRAPH Asia 2021 Emerging Technologies",
+                "vol": "pp. 18:1-18:2",
+                "when": 2021,
+                "where": "Tokyo, Japan",
+                "doi": "https://doi.org/10.1145/3476122.3484848",
+                "award": "",
+                "authors": [
+                    "Juro Hosoi",
+                    "Yuki Ban",
+                    "Kenichi Ito",
+                    "Shin'ichi Warisawa"
+                ]
+            }
+        ],
+        "media": [],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "Juro Hosoi",
+                "link": "https://www.jhosoi.info/"
+            },
+            {
+                "name": "Yuki Ban"
+            },
+            {
+                "name": "Kenichi Ito",
+                "link": "https://k-ito.dev/"
+            },
+            {
+                "name": "Shin'ichi Warisawa"
+            }
+        ]
+    }
+}
