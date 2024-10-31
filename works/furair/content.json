@@ -1,0 +1,105 @@
+{
+    "jp": {
+        "title": "空中超音波刺激を用いた\n\nクロスモーダル効果による毛並み触感の提示",
+        "top": "top.png",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "柔らかい毛並みの触感提示はアニマルセラピーやオンラインショッピング，エンターテインメント等への幅広い需要があります．本研究では、手の動きに合わせてPseudo-hapticsと空中超音波触覚刺激をインタラクティブに提示することで，柔らかくボリューム感のある毛並みを撫でることのできる体験を実現しました．",
+                    "毛並みは皮膚に対して非常に柔らかく刺激強度が小さいため，振動子等のデバイスとの接触感が感覚提示を阻害するという課題がありました．また，毛並みは細い毛による微細な刺激が空間的に提示されるため，物理的な再現には空間的に広がる微細な構造(毛を再現した構造)が必要でした．以上の理由から，多くのアプローチが触感の提示に毛や毛を再現した構造を利用してきました．それに対して本研究では，パラメトリックスピーカにより非接触に触感を提示し，詩触覚刺激を組み合わせることにより，空間的に密な触覚情報として知覚させる手法を構築しました．"
+                ]
+            },
+            {
+                "type": "movie",
+                "content": "Cj0DC_XycA4"
+            },
+            {
+                "type": "text",
+                "content": [
+                    "実際に毛並みを撫でた際の毛の動きと掌にかかる圧力を計測して，それをもとに視覚的・触覚的毛並みモデルを構築しました．バーチャル空間における手の動きに合わせて，モデルに従い毛並みを変形させ，毛並みの状態と触る向きに応じて提示する圧刺激を制御しています．"
+                ]
+            },
+            {
+                "type": "image",
+                "content": "concept.png"
+            }
+        ],
+        "publication": [],
+        "media": [
+            {
+                "content": "熱田麻貴, 東京大学、柔らかい触感を超音波で再現する技術を展示, 日経クロステック, 2024年8月",
+                "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02918/082200002/?n_cid=nbpnxt_twed_it"
+            },
+            {
+                "content": "猫の感触を再現するモフモフ装置【トレたまneo】, ワールドビジネスサテライト（WBS）, 2024年5月",
+                "link": "https://txbiz.tv-tokyo.co.jp/wbs/trend_tamago/post_295663"
+            },
+            {
+                "content": "山下裕毅, Innovative Tech：毛がないのに“モフモフ”　毛並みをなでる感触を再現できる装置　東大「FurAir」開発, ITmedia, 2023年12月",
+                "link": "https://www.itmedia.co.jp/news/articles/2312/13/news046.html"
+            }
+        ],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "細井 十楽",
+                "link": "https://www.jhosoi.info/"
+            },
+            {
+                "name": "伴 祐樹"
+            },
+            {
+                "name": "金 杜"
+            },
+            {
+                "name": "割澤 伸一"
+            }
+        ]
+    },
+    "en": {
+        "title": "Presentation of Fur Texture Using Mid-Air Ultrasonic Stimulation",
+        "top": "top.png",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "There is widespread demand for presenting the tactile sensation of soft fur in various applications including animal therapy, online shopping, and entertainment. In this research, we achieved an experience of stroking soft, voluminous fur by interactively presenting pseudo-haptics and mid-air ultrasonic tactile stimulation in accordance with hand movements.",
+                    "Since fur provides very gentle stimulation to the skin with low intensity, traditional approaches using vibrators or other contact devices would interfere with the intended sensory presentation. Additionally, fur creates spatially distributed fine stimuli from thin individual hairs, meaning physical reproduction would require spatially extended microstructures (structures replicating hairs). For these reasons, many previous approaches have used actual hair or hair-like structures to present the tactile sensation. In contrast, our research establishes a method that uses parametric speakers to present tactile sensations without contact, combining them with pseudo-haptic stimuli to create the perception of spatially dense tactile information."
+                ]
+            },
+            {
+                "type": "movie",
+                "content": "Cj0DC_XycA4"
+            },
+            {
+                "type": "text",
+                "content": [
+                    "We measured the movement of fur and the pressure applied to the palm when actually stroking fur, and based on this data, we constructed both visual and tactile fur models. As users move their hands in virtual space, the fur deforms according to the model, and the pressure stimulation is controlled based on both the state of the fur and the direction of touch."
+                ]
+            },
+            {
+                "type": "image",
+                "content": "concept.png"
+            }
+        ],
+        "publication": [],
+        "media": [],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "Juro Hosoi",
+                "link": "https://www.jhosoi.info/"
+            },
+            {
+                "name": "Yuki Ban"
+            },
+            {
+                "name": "Du Jin"
+            },
+            {
+                "name": "Shin'ichi Warisawa"
+            }
+        ]
+    }
+}

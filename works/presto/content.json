@@ -1,0 +1,64 @@
+{
+    "jp": {
+        "title": "バイオフィードバックへの所有感生起による\n\n呼吸調整手法の構築",
+        "top": "top.png",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "本研究では，呼吸に関するバイオフィードバックに所有感を生起させることで，呼吸への意識と自己調整機能を高めるとともに，呼吸誘導の効果を増強する手法の開発を目指します．",
+                    "実際の呼吸活動と時間的・空間的・質的に一致・類似する刺激を設計することでバイオフィードバックへの所有感を生起させる手法を構築し，それを応用することで日常生活でも実施可能な効果的な呼吸調整法の確立をはかります．"
+                ]
+            },
+            {
+                "type": "image",
+                "content": "concept_jp.png"
+            },
+            {
+                "type": "text",
+                "content": [
+                    "複数の感覚モダリティを組み合わせた包括的なフィードバック手法を開発し，短期・長期的な効果検証を通じて，ストレス社会におけるメンタルヘルス問題の解決に寄与する新たな技術の提供を目指します．"
+                ]
+            }
+        ],
+        "publication": [],
+        "media": [],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "伴 祐樹"
+            }
+        ]
+    },
+    "en": {
+        "title": "Development of a Breathing Regulation Method\n\nthrough Inducing a Sense of Ownership in Biofeedback",
+        "top": "top_en.png",
+        "about": [
+            {
+                "type": "text",
+                "content": [
+                    "This research aims to develop a method that enhances awareness of breathing, improves self-regulation function, and amplifies the effect of breathing guidance by inducing a sense of ownership in biofeedback related to breathing.",
+                    "We will establish a method to induce a sense of ownership in biofeedback by designing stimuli that temporally, spatially, and qualitatively match or resemble actual breathing activity, and apply this to establish effective breathing regulation methods that can be implemented in daily life."
+                ]
+            },
+            {
+                "type": "image",
+                "content": "concept_en.png"
+            },
+            {
+                "type": "text",
+                "content": [
+                    "We aim to develop comprehensive feedback methods combining multiple sensory modalities, and through short-term and long-term effect verification, provide new technologies that contribute to solving mental health problems in a stressful society."
+                ]
+            }
+        ],
+        "publication": [],
+        "media": [],
+        "exhibition": [],
+        "contributor": [
+            {
+                "name": "Yuki Ban"
+            }
+        ]
+    }
+}
