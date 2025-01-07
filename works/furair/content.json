@@ -25,7 +25,23 @@
                 "content": "concept.png"
             }
         ],
-        "publication": [],
+        "publication": [
+            {
+                "title": "Voluminous Fur Stroking Experience through Interactive Visuo-Haptic Model in Virtual Reality",
+                "publish": "IEEE Transaction on Haptics",
+                "vol": "Early Access",
+                "when": 2024,
+                "where": "",
+                "doi": "https://doi.org/10.1109/TOH.2024.3521418",
+                "award": "",
+                "authors": [
+                    "Juro Hosoi",
+                    "Du Jin",
+                    "Yuki Ban",
+                    "Shin'ichi Warisawa"
+                ]
+            }
+        ],
         "media": [
             {
                 "content": "熱田麻貴, 東京大学、柔らかい触感を超音波で再現する技術を展示, 日経クロステック, 2024年8月",
@@ -83,7 +99,23 @@
                 "content": "concept.png"
             }
         ],
-        "publication": [],
+        "publication": [
+            {
+                "title": "Voluminous Fur Stroking Experience through Interactive Visuo-Haptic Model in Virtual Reality",
+                "publish": "IEEE Transaction on Haptics",
+                "vol": "Early Access",
+                "when": 2024,
+                "where": "",
+                "doi": "https://doi.org/10.1109/TOH.2024.3521418",
+                "award": "",
+                "authors": [
+                    "Juro Hosoi",
+                    "Du Jin",
+                    "Yuki Ban",
+                    "Shin'ichi Warisawa"
+                ]
+            }
+        ],
         "media": [],
         "exhibition": [],
         "contributor": [
